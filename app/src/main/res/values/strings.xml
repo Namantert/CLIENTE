@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">FerreApp</string>
+    <string name="cedula">Cedula</string>
+    <string name="buscar">BUSCAR</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="puesto_laboral">Puesto laboral</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="modificar">MODIFICAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="telefono">Telefono</string>
+    <string name="codigo">Codigo</string>
+    <string name="tipo_material">Tipo del material</string>
+    <string name="nombre_material">Nombre del Material</string>
+    <string name="precio">Precio</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="numero">N°</string>
+    <string name="tipo">Tipo</string>
+    <string name="descripcion">Descripcion del material</string>
+    <string name="codigo_articulo">Codigo del Material</string>
+    <string name="registrcompra">REGISTRO DE COMPRAS</string>
+    <string name="Compra">COMPRA</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="listados">LISTADOS</string>
+    <string name="reportes">REPORTES</string>
+    <string-array name="opciones_principal">
+        <item>@string/registrar</item>
+        <item>@string/listados</item>
+        <item>@string/Compra</item>
+        <item>@string/reportes</item>
+    </string-array>
+    <string name="empleado">EMPLEADO</string>
+    <string name="cliente">CLIENTE</string>
+    <string name="material">MATERIAL</string>
+    <string-array name="opciones_registros">
+        <item>@string/empleado</item>
+        <item>@string/material</item>
+    </string-array>
+    <string-array name="opciones_listas">
+        <item>@string/empleado</item>
+        <item>@string/material</item>
+        <item>@string/registrcompra</item>
+    </string-array>
+    <string name="gerente">Gerente</string>
+    <string name="vendedor">Vendedor</string>
+    <string name="contador">Contador</string>
+    <string name="empleado_mostrador">Empleado de mostrador</string>
+    <string name="cajero">Cajero</string>
+    <string name="bodeguero">Bodeguero</string>
+    <string name="repartidor">Repartidor</string>
+    <string-array name="opciones_puestos">
+        <item>@string/gerente</item>
+        <item>@string/vendedor</item>
+        <item>@string/contador</item>
+        <item>@string/empleado_mostrador</item>
+        <item>@string/cajero</item>
+        <item>@string/bodeguero</item>
+        <item>@string/repartidor</item>
+    </string-array>
+
+    <string name="confirmacion">Confirmación</string>
+    <string name="mensaje_confirmacion">¿Está seguro que desea eliminar este empleado?</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="empleado_guardado">Empleado guardado exitosamente</string>
+    <string name="empleado_eliminado">Empleado eliminado exitosamente</string>
+    <string name="empleado_modificado">Empleado modificado exitosamente</string>
+
+    <string name="error_cajacedula">Por favor digite la cedula</string>
+    <string name="error_cajanombre">Por favor digite el nombre</string>
+    <string name="error_cajaapellido">Por favor digite el apellido</string>
+    <string name="error_cajaedad">Por favor digite la edad</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ingreseCliente">Ingrese al Cliente</string>
+    <string name="agregar">Agregar</string>
+    <string name="stock">Stock</string>
+</resources>
