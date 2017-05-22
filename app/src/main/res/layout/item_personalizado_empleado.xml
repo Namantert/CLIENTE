@@ -24,34 +24,33 @@
             android:id="@+id/txtCedulaEmpleadoP"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignTop="@+id/imgFotoEmpleado"
-            android:layout_centerHorizontal="true"
             android:text="TextView"
             android:textColor="@android:color/black"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:layout_alignTop="@+id/imgFotoEmpleado"
+            android:layout_centerHorizontal="true" />
 
         <TextView
             android:id="@+id/txtNombreEmpleadoP"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignLeft="@+id/txtCedulaEmpleadoP"
-            android:layout_alignStart="@+id/txtCedulaEmpleadoP"
-            android:layout_below="@+id/txtCedulaEmpleadoP"
-            android:layout_marginTop="14dp"
+            android:layout_marginBottom="42dp"
             android:text="TextView"
             android:textColor="@android:color/black"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:layout_alignBottom="@+id/imgFotoEmpleado"
+            android:layout_alignLeft="@+id/txtCedulaEmpleadoP"
+            android:layout_alignStart="@+id/txtCedulaEmpleadoP" />
 
         <TextView
             android:id="@+id/txtPuestoEmpleadoP"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignLeft="@+id/txtNombreEmpleadoP"
-            android:layout_alignStart="@+id/txtNombreEmpleadoP"
-            android:layout_below="@+id/txtNombreEmpleadoP"
-            android:layout_marginTop="20dp"
             android:text="TextView"
             android:textColor="@android:color/black"
-            android:textSize="18sp" />
+            android:textSize="18sp"
+            android:layout_alignBottom="@+id/imgFotoEmpleado"
+            android:layout_alignLeft="@+id/txtNombreEmpleadoP"
+            android:layout_alignStart="@+id/txtNombreEmpleadoP" />
     </RelativeLayout>
 </LinearLayout>

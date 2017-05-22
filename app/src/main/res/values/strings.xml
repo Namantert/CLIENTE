@@ -65,19 +65,25 @@
 
     <string name="confirmacion">Confirmación</string>
     <string name="mensaje_confirmacion">¿Está seguro que desea eliminar este empleado?</string>
+    <string name="mensaje_confirmacionc">¿Está seguro que desea eliminar este cliente?</string>
     <string name="confirmar">Confirmar</string>
     <string name="cancelar">Cancelar</string>
 
     <string name="empleado_guardado">Empleado guardado exitosamente</string>
+    <string name="cliente_guardado">Cliente guardado exitosamente</string>
     <string name="empleado_eliminado">Empleado eliminado exitosamente</string>
+    <string name="cliente_eliminado">Cliente eliminado exitosamente</string>
     <string name="empleado_modificado">Empleado modificado exitosamente</string>
-
+    <string name="cliente_modificado">Cliente modificado exitosamente</string>
     <string name="error_cajacedula">Por favor digite la cedula</string>
     <string name="error_cajanombre">Por favor digite el nombre</string>
     <string name="error_cajaapellido">Por favor digite el apellido</string>
+    <string name="error_cajaTelefono">Por favor digite el telefono</string>
     <string name="error_cajaedad">Por favor digite la edad</string>
+    <string name="error_telefono">Por favor digite el telefono</string>
     <string name="aceptar">Aceptar</string>
     <string name="ingreseCliente">Ingrese al Cliente</string>
     <string name="agregar">Agregar</string>
     <string name="stock">Stock</string>
+    <string name="compra">Compra</string>
 </resources>

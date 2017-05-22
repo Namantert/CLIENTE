@@ -39,7 +39,7 @@ public class Principal extends AppCompatActivity {
                         startActivity(i);
                         break;
                     case 2:
-                        i=new Intent(Principal.this, Compra.class);
+                        i=new Intent(Principal.this,RegistrarCliente.class);
                         startActivity(i);
                         break;
                     case 3:
